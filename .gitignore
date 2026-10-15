@@ -1,0 +1,9 @@
+# Local secrets; safe example files can be committed.
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Operating system files.
+.DS_Store
+Thumbs.db
